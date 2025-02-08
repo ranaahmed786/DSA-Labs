@@ -1,0 +1,7 @@
+A computer network is a system that connects multiple devices to share resources and information
+It allows communication between computers, servers, and other devices using wired or wireless connections
+Networks can be classified into different types, such as LAN, WAN, and MAN, based on their size and purpose
+The Internet is the largest network, linking millions of computers worldwide. Data is transmitted using protocols like TCP/IP, ensuring smooth communication
+Security measures, such as firewalls and encryption, protect data from cyber threats
+Networking plays a vital role in businesses, education, and daily life
+It improves efficiency, collaboration, and access to information

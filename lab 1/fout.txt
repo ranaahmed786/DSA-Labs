@@ -1,0 +1,3 @@
+The number of characters in the file is: 589
+The number of words in the file is: 100
+The number of lines in the file is: 0
