@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DF718D85-09BB-4FB0-8889-919615DB5808}|lab-2.vcxproj|C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-2\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{DF718D85-09BB-4FB0-8889-919615DB5808}|lab-2.vcxproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF718D85-09BB-4FB0-8889-919615DB5808}|lab-2.vcxproj|C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DF718D85-09BB-4FB0-8889-919615DB5808}|lab-2.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -30,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Stack.h",
               "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-2\\Stack.h",
               "RelativeDocumentMoniker": "Stack.h",
@@ -48,7 +52,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-2\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-2\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwCkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-13T08:22:01.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "stack1.cpp",
               "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-2\\stack1.cpp",
               "RelativeDocumentMoniker": "stack1.cpp",
@@ -60,12 +81,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "stack1.h",
               "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-2\\stack1.h",
               "RelativeDocumentMoniker": "stack1.h",
@@ -78,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Stack.cpp",
               "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-2\\Stack.cpp",
               "RelativeDocumentMoniker": "Stack.cpp",
@@ -86,11 +103,12 @@
               "RelativeToolTip": "Stack.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-13T07:04:14.583Z"
+              "WhenOpened": "2025-02-13T07:04:14.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-2\\Source.cpp",
               "RelativeDocumentMoniker": "Source.cpp",
