@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{187BC12B-DDB8-4D8F-AE70-07B31159209C}|lab-6.vcxproj|C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-6\\LinkedStr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{187BC12B-DDB8-4D8F-AE70-07B31159209C}|lab-6.vcxproj|solutionrelative:LinkedStr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187BC12B-DDB8-4D8F-AE70-07B31159209C}|lab-6.vcxproj|C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-6\\LinkedStr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{187BC12B-DDB8-4D8F-AE70-07B31159209C}|lab-6.vcxproj|solutionrelative:LinkedStr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{187BC12B-DDB8-4D8F-AE70-07B31159209C}|lab-6.vcxproj|C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-6\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{187BC12B-DDB8-4D8F-AE70-07B31159209C}|lab-6.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,19 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LinkedStr.cpp",
+              "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-6\\LinkedStr.cpp",
+              "RelativeDocumentMoniker": "LinkedStr.cpp",
+              "ToolTip": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-6\\LinkedStr.cpp",
+              "RelativeToolTip": "LinkedStr.cpp",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswFUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T12:18:48.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedStr.h",
+              "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-6\\LinkedStr.h",
+              "RelativeDocumentMoniker": "LinkedStr.h",
+              "ToolTip": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-6\\LinkedStr.h",
+              "RelativeToolTip": "LinkedStr.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-23T12:17:57.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-6\\Source.cpp",
               "RelativeDocumentMoniker": "Source.cpp",
               "ToolTip": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-6\\Source.cpp",
               "RelativeToolTip": "Source.cpp",
-              "ViewState": "AQIAACYAAAAAAAAAAAAswEEAAAAAAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAswFIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-20T06:18:42.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "List.h",
               "DocumentMoniker": "C:\\Users\\ranaa\\OneDrive\\Documents\\DSA-labs\\lab-6\\List.h",
               "RelativeDocumentMoniker": "List.h",
@@ -47,8 +81,7 @@
               "RelativeToolTip": "List.h",
               "ViewState": "AQIAAEUAAAAAAAAAAAAswGAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-20T06:18:12.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T06:18:12.089Z"
             }
           ]
         }
